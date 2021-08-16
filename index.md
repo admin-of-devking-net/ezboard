@@ -19,3 +19,13 @@ We focused on supporting all kinds of carom games, not just 3-Cushion game.
 - Support multi language (English/Korean)
 
 <img src="/screenshot/store-graphic-en.png" width="600">
+
+
+## Pages
+
+• [Download](//ezboard.devking.net/download/)\
+• [Privacy Policy](//ezboard.devking.net/privacy/)
+
+## Contact Us
+
+• [cs@devking.net](mailto://cs@devking.net)

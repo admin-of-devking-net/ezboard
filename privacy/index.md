@@ -7,7 +7,7 @@ If you have additional questions or require more information about our Privacy P
 
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in EZ Billiards Scoreboard. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the Online Generator of Privacy Policy.
 
- ## Consent
+## Consent
 By using our website, you hereby consent to our Privacy Policy and agree to its terms.
 
 ## Information we collect
